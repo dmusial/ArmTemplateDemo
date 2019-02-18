@@ -351,9 +351,9 @@
         "autoUpgradeMinorVersion": true,
         "settings": {
           "fileUris": [
-            "https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/apache2-on-ubuntu-vm/install_apache.sh"
+            "https://raw.githubusercontent.com/dmusial/ArmTemplateDemo/master/bootstrap.sh"
           ],
-          "commandToExecute": "sh install_apache.sh"
+          "commandToExecute": "sh bootstrap.sh"
         }
       }
     }
